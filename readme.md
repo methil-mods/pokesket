@@ -18,3 +18,9 @@ Choose your Pokémon team and face off against your opponent on the court in epi
 ---
 
 *Gotta catch 'em all... on the court!*
+
+Game by Methil
+
+![gif1](gif1.gif)
+![gif2](gif2.gif)
+![gif3](gif3.gif)
